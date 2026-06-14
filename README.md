@@ -1,1 +1,1 @@
-# Edgelog-pro
+edgelogpro-app.netlify.app
